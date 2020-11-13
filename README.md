@@ -45,5 +45,5 @@ This repository houses code and data (private sources) to identify selection on 
 ## Changes_in_allele_frequencies.PDF:
 * The Changes in allele frequencies (A) between the two populations based on “N” labelling; (B) Between the two populations based on the age of each cultivar.
 
-## RSULTS.PDF:
+## RSULTS.PDF: 
 * Plot of Ghat results, Ghat correlations on x-axis and Ghat p-value on y-axis. (A) Is the result based on “N” labelling; (B) Is the results based on the age of each cultivar.
