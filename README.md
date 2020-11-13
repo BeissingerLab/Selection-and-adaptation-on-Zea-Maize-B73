@@ -1,4 +1,4 @@
-# Zea-Maize-B73
+# Selection-and-adaptation-onZea-Maize-B73
 
 This repository houses code and data (private sources) to identify selection on genes that controlling Zea Maize ssp. mays var. B73 traits. In this repository, we have divided files into subdirectories as outlined below. For analyses performed using GWDG Scientific Compute Cluster, we have deposited both bash files and outputs.
 
